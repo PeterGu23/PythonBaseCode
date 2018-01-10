@@ -1,0 +1,7 @@
+name = input("请输入你的名字：")
+print ("="*50)
+print ("姓名：%s"% name)
+print ("QQ:wwwwwwwww")
+print ("手机号：131111111")
+print ("公司地址：你猜！")
+print ("="*50)

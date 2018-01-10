@@ -1,0 +1,6 @@
+print ("="*50)
+print ("姓名：dongGe")
+print ("QQ:wwwwwwwww")
+print ("手机号：131111111")
+print ("公司地址：你猜！")
+print ("="*50)
