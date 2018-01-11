@@ -79,3 +79,26 @@ print ("HelloWorld!")
 
 
 ## Python 语句
+
+### 判断语句 
+> 如果某些条件满足，才能做某种事情，不满足时不做，这就是判断。  
+> 在python中`if`语句用来进行判断，基本格式为（可嵌套使用）：  
+> ```python
+> if a:
+> 	pass
+> elif  b:
+> 	pass
+> else:
+> 	pass 
+> ```
+
+### while
+
+
+### for
+
+
+### break和continue
+
+
+
